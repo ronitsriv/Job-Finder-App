@@ -14,6 +14,7 @@ import javafx.stage.Stage;
 import java.util.Arrays;
 
 public class HelloApplication extends Application {
+    //Checking
     private TextField usernameField;
     private PasswordField passwordField;
     private TextField nameField;
